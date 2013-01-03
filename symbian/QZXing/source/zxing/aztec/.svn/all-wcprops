@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec
+END
+AztecReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/AztecReader.h
+END
+AztecDetectorResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/AztecDetectorResult.cpp
+END
+AztecDetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/AztecDetectorResult.h
+END
+AztecReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/AztecReader.cpp
+END

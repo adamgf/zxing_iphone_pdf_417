@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source
+END
+QZXing.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/QZXing.pro
+END
+qzxing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qzxing.cpp
+END
+imagehandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/imagehandler.cpp
+END
+CameraImageWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/CameraImageWrapper.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/.gitignore
+END
+imagehandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/imagehandler.h
+END
+qzxing.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qzxing.h
+END
+QZXing_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/QZXing_global.h
+END
+QZXing_unsigned.sis
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/QZXing_unsigned.sis
+END
+CameraImageWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/CameraImageWrapper.cpp
+END

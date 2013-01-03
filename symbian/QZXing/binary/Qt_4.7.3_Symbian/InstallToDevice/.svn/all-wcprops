@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2296/trunk/symbian/QZXing/binary/Qt_4.7.3_Symbian/InstallToDevice
+END
+QZXing_selfsigned.sis
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2296/trunk/symbian/QZXing/binary/Qt_4.7.3_Symbian/InstallToDevice/QZXing_selfsigned.sis
+END
+QZXing_unsigned.sis
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2296/trunk/symbian/QZXing/binary/Qt_4.7.3_Symbian/InstallToDevice/QZXing_unsigned.sis
+END

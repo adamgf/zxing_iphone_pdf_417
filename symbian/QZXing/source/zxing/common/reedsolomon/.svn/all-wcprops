@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon
+END
+GenericGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/GenericGF.h
+END
+ReedSolomonDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/ReedSolomonDecoder.h
+END
+GenericGFPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/GenericGFPoly.h
+END
+ReedSolomonException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/ReedSolomonException.cpp
+END
+GenericGF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/GenericGF.cpp
+END
+ReedSolomonException.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/ReedSolomonException.h
+END
+ReedSolomonDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/ReedSolomonDecoder.cpp
+END
+GenericGFPoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/common/reedsolomon/GenericGFPoly.cpp
+END

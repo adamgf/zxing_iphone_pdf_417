@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/rules
+END
+manifest.aegis
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/manifest.aegis
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/qtc_packaging/debian_harmattan/README
+END

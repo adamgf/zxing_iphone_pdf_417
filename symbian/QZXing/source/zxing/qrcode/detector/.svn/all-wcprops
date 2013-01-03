@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/Detector.h
+END
+QRAlignmentPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRAlignmentPattern.cpp
+END
+QRFinderPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRFinderPatternFinder.cpp
+END
+AlignmentPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/AlignmentPattern.h
+END
+QREdgeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QREdgeDetector.cpp
+END
+FinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/FinderPatternFinder.h
+END
+QRFinderPatternInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRFinderPatternInfo.cpp
+END
+QREdgeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QREdgeDetector.h
+END
+FinderPatternInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/FinderPatternInfo.h
+END
+QRAlignmentPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRAlignmentPatternFinder.cpp
+END
+QRFinderPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRFinderPattern.cpp
+END
+AlignmentPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/AlignmentPatternFinder.h
+END
+FinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/FinderPattern.h
+END
+QRDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/qrcode/detector/QRDetector.cpp
+END

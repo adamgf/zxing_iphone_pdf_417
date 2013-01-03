@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder
+END
+DataMatrixDecodedBitStreamParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DataMatrixDecodedBitStreamParser.cpp
+END
+DataMatrixBitMatrixParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DataMatrixBitMatrixParser.cpp
+END
+DataMatrixDataBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DataMatrixDataBlock.cpp
+END
+DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DecodedBitStreamParser.h
+END
+DataMatrixDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DataMatrixDecoder.cpp
+END
+BitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/BitMatrixParser.h
+END
+DataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/DataBlock.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/datamatrix/decoder/Decoder.h
+END

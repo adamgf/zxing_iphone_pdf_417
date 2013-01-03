@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/detector/Detector.h
+END
+AztecDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/aztec/detector/AztecDetector.cpp
+END

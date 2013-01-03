@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders
+END
+DecodedObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/DecodedObject.as
+END
+AI01decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01decoder.as
+END
+GeneralAppIdDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/GeneralAppIdDecoder.as
+END
+DecodedChar.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/DecodedChar.as
+END
+AI013103decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI013103decoder.as
+END
+AnyAIDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AnyAIDecoder.as
+END
+BlockParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/BlockParsedResult.as
+END
+AI01weightDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01weightDecoder.as
+END
+AI01320xDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01320xDecoder.as
+END
+DecodedInformation.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/DecodedInformation.as
+END
+FieldParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/FieldParser.as
+END
+AbstractExpandedDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AbstractExpandedDecoder.as
+END
+AI013x0xDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI013x0xDecoder.as
+END
+AI01392xDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01392xDecoder.as
+END
+CurrentParsingState.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/CurrentParsingState.as
+END
+AI01393xDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01393xDecoder.as
+END
+DecodedNumeric.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/DecodedNumeric.as
+END
+AI01AndOtherAIs.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI01AndOtherAIs.as
+END
+AI013x0x1xDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/expanded/decoders/AI013x0x1xDecoder.as
+END

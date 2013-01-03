@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2227/trunk/actionscript/core/src/com/google/zxing/oned/rss
+END
+AbstractRSSReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/AbstractRSSReader.as
+END
+RSS14Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2227/trunk/actionscript/core/src/com/google/zxing/oned/rss/RSS14Reader.as
+END
+FinderPattern.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/FinderPattern.as
+END
+DataCharacter.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/DataCharacter.as
+END
+RSSUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/RSSUtils.as
+END
+Pair.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2110/trunk/actionscript/core/src/com/google/zxing/oned/rss/Pair.as
+END

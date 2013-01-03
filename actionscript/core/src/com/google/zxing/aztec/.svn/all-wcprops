@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2227/trunk/actionscript/core/src/com/google/zxing/aztec
+END
+AztecDetectorResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/aztec/AztecDetectorResult.as
+END
+Point.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/aztec/Point.as
+END
+AztecReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2227/trunk/actionscript/core/src/com/google/zxing/aztec/AztecReader.as
+END

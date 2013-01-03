@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder
+END
+PDF417HighLevelEncoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/PDF417HighLevelEncoder.as
+END
+PDF417Writer.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/PDF417Writer.as
+END
+BarcodeMatrix.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/BarcodeMatrix.as
+END
+PDF417.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/PDF417.as
+END
+BarcodeRow.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/BarcodeRow.as
+END
+PDF417ErrorCorrection.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2111/trunk/actionscript/core/src/com/google/zxing/pdf417/encoder/PDF417ErrorCorrection.as
+END

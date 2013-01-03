@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Exception.cpp
+END
+DecodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/DecodeHints.h
+END
+LuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/LuminanceSource.h
+END
+Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Reader.cpp
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Exception.h
+END
+ResultPointCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ResultPointCallback.cpp
+END
+FormatException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/FormatException.cpp
+END
+Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Reader.h
+END
+BarcodeFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/BarcodeFormat.cpp
+END
+ResultPointCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ResultPointCallback.h
+END
+NotFoundException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/NotFoundException.cpp
+END
+FormatException.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/FormatException.h
+END
+BarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/BarcodeFormat.h
+END
+Result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Result.cpp
+END
+NotFoundException.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/NotFoundException.h
+END
+ReaderException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ReaderException.cpp
+END
+BinaryBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/BinaryBitmap.cpp
+END
+Result.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Result.h
+END
+Binarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Binarizer.cpp
+END
+BinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/BinaryBitmap.h
+END
+MultiFormatReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/MultiFormatReader.cpp
+END
+ReaderException.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ReaderException.h
+END
+ResultPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ResultPoint.cpp
+END
+DecodeHints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/DecodeHints.cpp
+END
+Binarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/Binarizer.h
+END
+MultiFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/MultiFormatReader.h
+END
+LuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/LuminanceSource.cpp
+END
+ResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2296/trunk/symbian/QZXing/source/zxing/ResultPoint.h
+END

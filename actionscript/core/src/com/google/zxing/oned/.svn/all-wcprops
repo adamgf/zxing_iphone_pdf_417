@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2227/trunk/actionscript/core/src/com/google/zxing/oned
+END
+EAN8Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/EAN8Reader.as
+END
+CodaBarReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/CodaBarReader.as
+END
+ITFWriter.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/ITFWriter.as
+END
+UPCEReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCEReader.as
+END
+MultiFormatUPCEANReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/MultiFormatUPCEANReader.as
+END
+Code39Writer.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/Code39Writer.as
+END
+EANManufacturerOrgSupport.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/EANManufacturerOrgSupport.as
+END
+UPCAWriter.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCAWriter.as
+END
+Code128Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/Code128Reader.as
+END
+EAN8Writer.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/EAN8Writer.as
+END
+EAN13Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/EAN13Reader.as
+END
+MultiFormatOneDReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/MultiFormatOneDReader.as
+END
+UPCEANReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCEANReader.as
+END
+Code128Writer.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/Code128Writer.as
+END
+EAN13Writer.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/EAN13Writer.as
+END
+UPCEANExtensionSupport.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCEANExtensionSupport.as
+END
+ITFReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/ITFReader.as
+END
+UPCEANWriter.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCEANWriter.as
+END
+OneDReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/OneDReader.as
+END
+Code93Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/Code93Reader.as
+END
+Code39Reader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/Code39Reader.as
+END
+UPCAReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2109/trunk/actionscript/core/src/com/google/zxing/oned/UPCAReader.as
+END
