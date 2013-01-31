@@ -11,4 +11,11 @@ Whatever license applies to the zxing codebase applies to this code addition as 
 
 If you have any questions e-mail me at: adamgf@gmail.com
 
+Also if you are a developer involved in mobile payments check out my Passbook pass creation websites at:
+
+http://www.passsupply.com
+
+and
+
+http://www.passmerchant.com
 
